@@ -7,6 +7,16 @@
       <module name="ASCII_Text_Signature.ASCII_Text_Signature-task-build-test-results.main" target="11" />
       <module name="ASCII_Text_Signature.ASCII_Text_Signature-task-build-tmp.main" target="11" />
       <module name="ASCII_Text_Signature.ASCII_Text_Signature-task.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Function_references-All_correct_function_references.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Function_references-Ascending_and_descending_sorting.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Function_references-Calculator.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Function_references-Creating_employees.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Function_references-Getting_fields_of_classes.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Function_references-Kinds_of_function_references.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Function_references-Manipulating_with_numbers.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Function_references-Replace_the_lambda_expression_with_a_function_reference.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Function_references-Syntax_of_function_references.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Function_references-Theory.main" target="11" />
       <module name="ASCII_Text_Signature.Topics-Functions_as_objects-Continuation-Passing_Style.main" target="11" />
       <module name="ASCII_Text_Signature.Topics-Functions_as_objects-First-class_citizen.main" target="11" />
       <module name="ASCII_Text_Signature.Topics-Functions_as_objects-First_predicate.main" target="11" />
