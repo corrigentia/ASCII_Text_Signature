@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="ASCII_Text_Signature.ASCII_Text_Signature-task-build-classes-kotlin.main" target="11" />
+      <module name="ASCII_Text_Signature.ASCII_Text_Signature-task-build-reports-tests.main" target="11" />
+      <module name="ASCII_Text_Signature.ASCII_Text_Signature-task-build-test-results.main" target="11" />
+      <module name="ASCII_Text_Signature.ASCII_Text_Signature-task-build-tmp.main" target="11" />
+      <module name="ASCII_Text_Signature.ASCII_Text_Signature-task.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Functions_as_objects-Continuation-Passing_Style.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Functions_as_objects-First-class_citizen.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Functions_as_objects-First_predicate.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Functions_as_objects-Function_composition.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Functions_as_objects-Function_generator.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Functions_as_objects-Function_type.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Functions_as_objects-Kotlin_function_type.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Functions_as_objects-Theory.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Lambda_expressions-_Not__predicate.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Lambda_expressions-Capturing_variable.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Lambda_expressions-Function_composition.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Lambda_expressions-Max.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Lambda_expressions-Polynomial.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Lambda_expressions-Range_multiplication.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Lambda_expressions-Syntactic_sugar.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Lambda_expressions-Syntax.main" target="11" />
+      <module name="ASCII_Text_Signature.Topics-Lambda_expressions-Theory.main" target="11" />
+      <module name="ASCII_Text_Signature.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
